@@ -57,5 +57,7 @@ def pregunta_02():
 
         # Actualice los parámetros
         params = params - learning_rate * gradient
+         
+         
 
     return params
