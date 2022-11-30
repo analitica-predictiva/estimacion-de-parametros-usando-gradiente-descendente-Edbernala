@@ -34,7 +34,7 @@ def pregunta_01():
 def pregunta_02():
 
     # Importe numpy
-    import ___ as ___
+    import numpy as np
 
     x_poly, y = pregunta_01()
 
