@@ -17,7 +17,8 @@ def test_01():
     Pregunta 01
     pip3 install scikit-learn pandas numpy
     python3 tests.py 01
-    """
+    """ 
+    
 
     x_poly, _ = preguntas.pregunta_01()
     x_poly = x_poly.round(3)
